@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "O caso Twitter/X: algoritmo, espaço público e moderação de conteúdo",
+    "autores": [
+      "Equipe de Pesquisa"
+    ],
+    "ano": 2025,
+    "resumo": "Este  artigo  investiga  a  dinâmica  das  redes  sociais  na  formação  do  debate público, com ênfase no Twitter (atualmente denominado X) e na influência dos  algoritmos  na  regulação  do  conteúdo.  Por  meio  de  uma  abordagem interdisciplinar...",
+    "palavras_chave": [
+      "Algoritmos",
+      "Redes Sociais",
+      "Moderação de Conteúdo",
+      "Twitter/X"
+    ],
+    "categoria_tema": "Tecnologia, Algoritmos e Sociedade",
+    "arquivo_origem": "twitter_algoritmo.md"
+  },
+  {
+    "titulo": "Entre o algoritmo e o Juramento de Hipócrates",
+    "autores": [
+      "Equipe de Pesquisa"
+    ],
+    "ano": 2022,
+    "resumo": "O avanço da inteligência artificial tem transformado profundamente a prática médica. De sistemas de apoio à decisão clínica a algoritmos de triagem e diagnóstico, a inteligência artificial tem demons -trado potencial para diagnósticos precoces, terap...",
+    "palavras_chave": [
+      "Bioética",
+      "Inteligência Artificial",
+      "Ética Médica",
+      "Saúde Digital"
+    ],
+    "categoria_tema": "Bioética e Saúde Digital",
+    "arquivo_origem": "bioetica_e_ia (1).md"
+  },
+  {
+    "titulo": "Escrita acadêmica ética, responsável e Inteligência Artificial",
+    "autores": [
+      "Equipe de Pesquisa"
+    ],
+    "ano": 2025,
+    "resumo": "I Programa Pós-Graduação em Ciência Política, Universidade Federal do Paraná, Curitiba, PR, Brasil.",
+    "palavras_chave": [
+      "Escrita Acadêmica",
+      "Inteligência Artificial",
+      "Metodologia",
+      "Integridade Científica"
+    ],
+    "categoria_tema": "Educação, Pesquisa e IA Generativa",
+    "arquivo_origem": "escrita_academica_ia.md"
+  }
+]
