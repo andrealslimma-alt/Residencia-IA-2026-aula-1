@@ -1,0 +1,7 @@
+Teste,Chunk Size,Overlap,Total Chunks,Tam. Médio (chars),Tam. Mín (chars),Tam. Máx (chars),Chunks Sobrepostos,% Overlap,Total Tokens,Tokens Médio/Chunk
+Teste 1,200,0,2675,145.9,30,199,0,0.0%,106755,39.9
+Teste 2,500,0,855,458.7,382,499,0,0.0%,108001,126.3
+Teste 3,1000,0,411,955.5,485,999,0,0.0%,108314,263.5
+Teste 4,2000,0,201,1954.9,1452,1999,0,0.0%,108437,539.5
+Teste 5,500,50,881,458.3,336,499,880,10.0%,111630,126.7
+Teste 6,500,200,1283,457.8,305,499,1282,40.0%,162948,127.0
